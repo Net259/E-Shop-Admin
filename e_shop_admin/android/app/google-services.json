@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "449888893960",
+    "project_id": "e-shop-265db",
+    "storage_bucket": "e-shop-265db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449888893960:android:7cfe00229688575ecd65bd",
+        "android_client_info": {
+          "package_name": "TCI.app.e_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449888893960-bimoliutvorv02j3itkejqtauvf1u889.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKk4KmzoL83IF3tqU6s7wB6dFs8T4LWng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449888893960-bimoliutvorv02j3itkejqtauvf1u889.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449888893960-3pr9jkfaf03ddga7j3gl02fcgcjiacgv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "TCI.app.eShop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449888893960:android:738e3aada9622e29cd65bd",
+        "android_client_info": {
+          "package_name": "TCI.app.e_shop_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449888893960-bimoliutvorv02j3itkejqtauvf1u889.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKk4KmzoL83IF3tqU6s7wB6dFs8T4LWng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449888893960-bimoliutvorv02j3itkejqtauvf1u889.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449888893960-3pr9jkfaf03ddga7j3gl02fcgcjiacgv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "TCI.app.eShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
