@@ -73,7 +73,7 @@ class _UpdateCategoryState extends State<UpdateCategory> {
       appBar: AppBar(
         backgroundColor: Palette.col,
         title: const CustomText(
-            text: 'Add Category', color: Colors.white, size: 16),
+            text: 'Update Category', color: Colors.white, size: 16),
       ),
       body: Form(
         key: _formkey,

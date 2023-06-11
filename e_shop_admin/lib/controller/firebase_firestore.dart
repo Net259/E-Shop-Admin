@@ -101,4 +101,20 @@ class FirebaseFirestoreMethode {
       return [];
     }
   }
+
+  // Future<String> deleteProduct(String categoryid, String productid) async {
+  //   try {
+  //     await _firebaseFirestore
+  //         .collection("categories")
+  //         .doc(categoryid)
+  //         .collection("products")
+  //         .doc(productid)
+  //         .delete();
+
+  //     successMessage("successfully deleted");
+  //     return "successfully deleted";
+  //   } catch (e) {
+  //     return e.toString();
+  //   }
+  // }
 }

@@ -177,6 +177,8 @@ class _AddProductState extends State<AddProduct> {
                     },
                   ),
                   TextFormField(
+                    maxLines: null,
+                    keyboardType: TextInputType.multiline,
                     controller: _descriptionController,
                     decoration: const InputDecoration(
                       labelText: 'Description',

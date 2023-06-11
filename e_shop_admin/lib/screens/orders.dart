@@ -185,7 +185,7 @@ class _OrdersState extends State<Orders> {
                                                   : order.status,
                                               items: <String>[
                                                 'Pending',
-                                                'Delivery'
+                                                'Delivered'
                                               ].map((String value) {
                                                 return DropdownMenuItem<String>(
                                                   value: value,
@@ -197,7 +197,7 @@ class _OrdersState extends State<Orders> {
                                                 );
                                               }).toList(),
                                               onChanged: (String? newValue) {
-                                                if (newValue == 'Delivery') {
+                                                if (newValue == 'Delivered') {
                                                   final updatedOrderStatus = {
                                                     'status': newValue
                                                   };
